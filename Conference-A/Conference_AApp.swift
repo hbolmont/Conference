@@ -11,7 +11,7 @@ import SwiftUI
 struct Conference_AApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            SearchView()
         }
     }
 }
